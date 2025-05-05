@@ -108,7 +108,7 @@ if (dragCard) {
               <p><i class="fa-solid fa-paperclip"></i> 1</p>
             </div>
             <div class="user">
-              <img src="https://github.com/iigorvidall.png" alt="Perfil de Igor Vidal">
+              <img src="https://github.com/JoaoPolloni.png" alt="Perfil de Polloni">
             </div>
           </div>
         </div>
@@ -142,7 +142,7 @@ if (dragCard) {
               <p><i class="fa-solid fa-paperclip"></i> 1</p>
             </div>
             <div class="user">
-              <img src="https://github.com/iigorvidall.png" alt="Perfil de Igor Vidal">
+              <img src="https://github.com/JoaoPolloni.png" alt="Perfil de Polloni">
             </div>
           </div>
         </div>
